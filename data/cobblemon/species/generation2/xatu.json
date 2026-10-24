@@ -15,20 +15,20 @@
   ],
   "aspects": [],
   "abilities": [
-    "synchronize",
-    "magicbounce",
-    "h:unnerve"
+    "forewarn",
+    "unnerve",
+    "h:psychicsurge"
   ],
   "eggGroups": [
     "flying"
   ],
   "baseStats": {
-    "hp": 65,
-    "attack": 65,
-    "defence": 75,
-    "special_attack": 95,
-    "special_defence": 75,
-    "speed": 90
+    "hp": 95,
+    "attack": 35,
+    "defence": 95,
+    "special_attack": 105,
+    "special_defence": 85,
+    "speed": 20
   },
   "evYield": {
     "hp": 0,
@@ -107,6 +107,7 @@
     "1:tailwind",
     "1:storedpower",
     "1:airslash",
+    "17:healbell",
     "15:confuseray",
     "20:nightshade",
     "28:psychoshift",
@@ -140,7 +141,6 @@
     "tm:dreameater",
     "tm:dualwingbeat",
     "tm:endure",
-    "tm:expandingforce",
     "tm:facade",
     "tm:featherdance",
     "tm:flash",
@@ -149,6 +149,7 @@
     "tm:futuresight",
     "tm:gigadrain",
     "tm:gigaimpact",
+    "tm:glare",
     "tm:grassknot",
     "tm:guardswap",
     "tm:haze",
@@ -202,7 +203,6 @@
     "tutor:dazzlinggleam",
     "tutor:defog",
     "tutor:dualwingbeat",
-    "tutor:expandingforce",
     "tutor:foulplay",
     "tutor:gigadrain",
     "tutor:gigaimpact",
