@@ -16,7 +16,7 @@
   "aspects": [],
   "abilities": [
     "compoundeyes",
-    "tintedlens",
+    "mindseye",
     "h:insomnia"
   ],
   "eggGroups": [
@@ -27,8 +27,8 @@
     "attack": 50,
     "defence": 60,
     "special_attack": 96,
-    "special_defence": 86,
-    "speed": 105
+    "special_defence": 96,
+    "speed": 60
   },
   "evYield": {
     "hp": 2,
@@ -119,6 +119,7 @@
     "33:uproar",
     "38:roost",
     "43:moonblast",
+    "45:moonlight",
     "48:hypnosis",
     "50:focusblast",
     "53:dreameater",
@@ -196,6 +197,7 @@
     "tm:uproar",
     "tm:workup",
     "tm:zenheadbutt",
+    "tm:instruct",
     "tutor:aerialace",
     "tutor:aircutter",
     "tutor:calmmind",
