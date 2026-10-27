@@ -1,7 +1,7 @@
 
 {
   "pack": {
-    "description": "1.21.1 Trailblazers Datapack",
+    "description": "Cobblemon Remnants Datapack",
     "pack_format": 48
   },
   "filter": {
@@ -20,16 +20,16 @@
       },
       {
         "namespace": "cobblemon",
-        "path": "recipe/healing_machine\\.json"
-      },
-      {
-        "namespace": "cobblemon",
         "path": "recipe/pc\\.json"
       },
       {
-      "namespace": "mega_showdown",
-      "path": "worldgen/structure_set/observatory\\.json"
-}
+        "namespace": "cobblemon",
+        "path": "recipe/healing_machine\\.json"
+      },
+      {
+        "namespace": "mega_showdown",
+        "path": "worldgen/structure_set/observatory\\.json"
+      }
     ]
   }
 }
