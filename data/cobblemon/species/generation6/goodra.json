@@ -16,7 +16,7 @@
   ],
   "aspects": [],
   "abilities": [
-    "sapsipper",
+    "thickfat",
     "hydration",
     "h:gooey"
   ],
@@ -24,11 +24,11 @@
     "dragon"
   ],
   "baseStats": {
-    "hp": 100,
+    "hp": 110,
     "attack": 80,
     "defence": 70,
     "special_attack": 120,
-    "special_defence": 150,
+    "special_defence": 140,
     "speed": 80
   },
   "evYield": {
