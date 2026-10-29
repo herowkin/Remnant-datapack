@@ -16,15 +16,15 @@
   "abilities": [
     "waterabsorb",
     "hydration",
-    "h:multiscale"
+    "h:stormdrain"
   ],
   "eggGroups": [
     "field"
   ],
   "baseStats": {
     "hp": 130,
-    "attack": 45,
-    "defence": 80,
+    "attack": 65,
+    "defence": 60,
     "special_attack": 110,
     "special_defence": 95,
     "speed": 65
