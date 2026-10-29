@@ -16,6 +16,7 @@
   "aspects": [],
   "abilities": [
     "sandveil",
+    "roughskin",
     "h:sandrush"
   ],
   "eggGroups": [
@@ -24,10 +25,10 @@
   "baseStats": {
     "hp": 75,
     "attack": 100,
-    "defence": 110,
-    "special_attack": 35,
-    "special_defence": 55,
-    "speed": 80
+    "defence": 120,
+    "special_attack": 15,
+    "special_defence": 85,
+    "speed": 65
   },
   "evYield": {
     "hp": 0,
@@ -276,15 +277,16 @@
       ],
       "abilities": [
         "snowcloak",
+        "ironbarbs",
         "h:slushrush"
       ],
       "baseStats": {
         "hp": 75,
-        "attack": 100,
-        "defence": 120,
+        "attack": 120,
+        "defence": 100,
         "special_attack": 10,
         "special_defence": 65,
-        "speed": 80
+        "speed": 95
       },
       "moves": [
         "1:iciclespear",
