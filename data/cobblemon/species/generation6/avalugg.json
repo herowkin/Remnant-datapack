@@ -3,7 +3,6 @@
   "nationalPokedexNumber": 713,
   "name": "Avalugg",
   "primaryType": "ice",
-  "secondaryType":"water",
   "maleRatio": 0.5,
   "height": 20,
   "weight": 5050,
@@ -16,20 +15,20 @@
   ],
   "aspects": [],
   "abilities": [
-    "owntempo",
+    "sturdy",
     "icebody",
-    "h:sturdy"
+    "h:filter"
   ],
   "eggGroups": [
     "monster",
     "mineral"
   ],
   "baseStats": {
-    "hp": 95,
-    "attack": 117,
-    "defence": 170,
-    "special_attack": 44,
-    "special_defence": 60,
+    "hp": 85,
+    "attack": 107,
+    "defence": 174,
+    "special_attack": 34,
+    "special_defence": 76,
     "speed": 28
   },
   "evYield": {
@@ -113,11 +112,9 @@
     "18:avalanche",
     "21:bite",
     "24:icefang",
-    "25:liquidation",
     "27:irondefense",
     "30:recover",
     "33:crunch",
-    "35:wavecrash",
     "36:takedown",
     "41:blizzard",
     "46:doubleedge",
@@ -234,16 +231,16 @@
       ],
       "abilities": [
         "strongjaw",
-        "solidrock",
-        "h:icebody"
+        "sturdy",
+        "h:solidrock"
       ],
       "baseStats": {
         "hp": 95,
         "attack": 127,
-        "defence": 170,
-        "special_attack": 34,
+        "defence": 140,
+        "special_attack": 44,
         "special_defence": 50,
-        "speed": 38
+        "speed": 78
       },
       "drops": {
         "amount": 2,
