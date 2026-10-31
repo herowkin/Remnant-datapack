@@ -101,10 +101,10 @@
         "key": "cobblemon:land/horse",
         "stats": {
           "SPEED": "45-75",
-          "ACCELERATION": "20-25",
-          "SKILL": "25-35",
+          "ACCELERATION": "30-45",
+          "SKILL": "35-45",
           "JUMP": "25-35",
-          "STAMINA": "50-70"
+          "STAMINA": "60-80"
         }
       }
     },
