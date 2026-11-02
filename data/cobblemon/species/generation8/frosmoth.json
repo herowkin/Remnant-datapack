@@ -16,8 +16,8 @@
   "aspects": [],
   "abilities": [
     "shielddust",
-    "snowwarning",
-    "h:icescales"
+    "icescales",
+    "h:snowwarning"
   ],
   "eggGroups": [
     "bug"
