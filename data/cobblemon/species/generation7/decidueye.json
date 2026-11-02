@@ -17,16 +17,16 @@
   "aspects": [],
   "abilities": [
     "overgrow",
-    "h:longreach"
+    "h:noguard"
   ],
   "eggGroups": [
     "flying"
   ],
   "baseStats": {
     "hp": 78,
-    "attack": 117,
+    "attack": 60,
     "defence": 75,
-    "special_attack": 60,
+    "special_attack": 117,
     "special_defence": 100,
     "speed": 100
   },
@@ -117,8 +117,10 @@
     "20:synthesis",
     "25:pluck",
     "30:nastyplot",
+    "34:calmmind",
     "37:suckerpunch",
     "44:leafblade",
+    "50:focusblast",
     "51:featherdance",
     "58:bravebird",
     "egg:confuseray",
@@ -204,6 +206,8 @@
     "tm:uturn",
     "tm:workup",
     "tm:worryseed",
+    "tm:swagger",
+    "tm:screech",
     "tutor:aerialace",
     "tutor:aircutter",
     "tutor:covet",
@@ -270,7 +274,7 @@
       ],
       "abilities": [
         "overgrow",
-        "h:scrappy"
+        "h:longreach"
       ],
       "baseStats": {
         "hp": 88,
@@ -278,7 +282,7 @@
         "defence": 80,
         "special_attack": 50,
         "special_defence": 90,
-        "speed": 90
+        "speed": 100
       },
       "moves": [
         "1:triplearrows",
@@ -460,6 +464,22 @@
           "drowsyChance": 0.0014,
           "rouseChance": 0.0042
         }
+      },
+      "drops": {
+        "amount": 6,
+        "entries": [
+          {
+            "item": "minecraft:feather",
+            "quantityRange": "0-4"
+          },
+          {
+            "item": "minecraft:chicken"
+          },
+          {
+            "item": "cobblemon:miracle_seed",
+            "percentage": 25.0
+          }
+        ]
       }
     }
   ]
