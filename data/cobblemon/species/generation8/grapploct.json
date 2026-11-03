@@ -16,7 +16,8 @@
   "aspects": [],
   "abilities": [
     "limber",
-    "h:technician"
+    "technician",
+    "h:regenerator"
   ],
   "eggGroups": [
     "water_1",
