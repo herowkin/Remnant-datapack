@@ -23,9 +23,9 @@
   ],
   "baseStats": {
     "hp": 90,
-    "attack": 75,
+    "attack": 65,
     "defence": 85,
-    "special_attack": 115,
+    "special_attack": 125,
     "special_defence": 90,
     "speed": 55
   },
@@ -119,7 +119,9 @@
     "35:powergem",
     "40:discharge",
     "46:cottonguard",
+    "48:calmmind",
     "51:dazzlinggleam",
+    "53:psyshock",
     "57:lightscreen",
     "62:thunder",
     "egg:afteryou",
