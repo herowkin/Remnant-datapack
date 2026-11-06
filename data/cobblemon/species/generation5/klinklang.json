@@ -24,9 +24,9 @@
   "baseStats": {
     "hp": 60,
     "attack": 100,
-    "defence": 115,
-    "special_attack": 70,
-    "special_defence": 85,
+    "defence": 95,
+    "special_attack": 100,
+    "special_defence": 75,
     "speed": 90
   },
   "evYield": {
@@ -138,6 +138,9 @@
     "1:mirrorshot",
     "1:magneticflux",
     "1:gearup",
+    "1:rapidspin",
+    "1:flamecharge",
+    "1:overheat",
     "12:chargebeam",
     "16:metalsound",
     "20:autotomize",
@@ -147,6 +150,8 @@
     "36:lockon",
     "42:shiftgear",
     "48:zapcannon",
+    "50:supercellslam",
+    "55:icespinner",
     "56:hyperbeam",
     "64:electricterrain",
     "tm:allyswitch",
