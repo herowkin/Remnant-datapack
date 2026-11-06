@@ -15,6 +15,7 @@
   "aspects": [],
   "abilities": [
     "soundproof",
+    "berserk",
     "h:scrappy"
   ],
   "eggGroups": [
@@ -72,6 +73,8 @@
     "1:crunch",
     "1:synchronoise",
     "1:echoedvoice",
+    "1:disarmingvoice",
+    "1:whirlwind",
     "15:rest",
     "15:sleeptalk",
     "23:stomp",
@@ -79,6 +82,7 @@
     "36:supersonic",
     "45:uproar",
     "54:screech",
+    "55:bulkup",
     "63:hypervoice",
     "72:boomburst",
     "81:hyperbeam",
@@ -164,6 +168,8 @@
     "tm:waterpulse",
     "tm:whirlpool",
     "tm:workup",
+    "tm:hurricane",
+    "tm:hammerarm",
     "tm:zenheadbutt",
     "tutor:bulldoze",
     "tutor:endeavor",
